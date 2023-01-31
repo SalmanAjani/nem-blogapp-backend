@@ -16,10 +16,10 @@
 <h2>Steps to use:</h2>
 <ol>
 <li>Clone the repository.</li>
-<li>Run <b>npm install</b>command to install all the dependencies.</li>
-<li>Create a <b>.env</b>file and add your MongoDB url for the database you want to create.</li>
+<li>Run <b>'npm install'</b> command to install all the dependencies.</li>
+<li>Create a <b>'.env'</b> file and add your MongoDB url for the database you want to create.</li>
 <li>Also add the port at which you want to run the server in the <b>.env</b>file.</li>
-<li>Start the server using <b>nodemon index.js</b>.</li>
+<li>Start the server using <b>'nodemon index.js'</b>.</li>
 <li>Now test out all the routes using a software such as Postman or Thunderclient.</li>
 <li>You can now deploy this on a server hosting platform such a Cyclic or Render to make it accessible for everyone.</li>
 </ol>
