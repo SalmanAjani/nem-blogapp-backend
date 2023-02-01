@@ -48,6 +48,14 @@
 <p>All blogs from a particular user:</p>
 <img src="https://i.ibb.co/YyzW23h/img1.png" alt="img1" border="0">
 
+<h2>Tech Stack</h2>
+<ul>
+<li>JavaScript</li>
+<li>MongoDB</li>
+<li>Express.js</li>
+<li>Node.js</li>
+</ul>
+
 <h2>Features to work on:</h2>
 <ul>
 <li>Generating a token for a user so that the user can be validated completely.</li>
