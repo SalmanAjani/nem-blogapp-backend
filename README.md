@@ -7,7 +7,7 @@
 <p>Make an easy to use server that can be used by any frontend developer to make a blog app if they wish to.</p>
 
 <h2>Deployed:</h2>
-<p>If you wish to directly use the deployed link you can use this - <a href="https://good-teal-butterfly-kilt.cyclic.app/" alt="blogdeployed">Link</a>
+<p>If you wish to directly use the deployed link you can use this - <a href="https://good-teal-butterfly-kilt.cyclic.app/blogs" alt="blogdeployed">Link</a>
 
 <h2>Features:</h2>
 <ul>
